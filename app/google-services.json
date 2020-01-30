@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960076179509",
+    "firebase_url": "https://safedeals-35fcd.firebaseio.com",
+    "project_id": "safedeals-35fcd",
+    "storage_bucket": "safedeals-35fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960076179509:android:232a8769298a9409a7697c",
+        "android_client_info": {
+          "package_name": "com.example.safedeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960076179509-apsk0vnf0q93gpcq8g5fclbl1ks365cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5csYshpEWcnnhfcCKfds9iE2vi6pwys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960076179509-apsk0vnf0q93gpcq8g5fclbl1ks365cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

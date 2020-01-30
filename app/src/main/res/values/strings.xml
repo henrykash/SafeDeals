@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SafeDeals</string>
+    <string name="save_menu">save</string>
+    <string name="delete_deal">Delete Deal</string>
+</resources>
