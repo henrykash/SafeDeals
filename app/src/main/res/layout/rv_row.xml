@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/txt_margin_standard"
-        android:layout_marginEnd="62dp"
+        android:layout_marginEnd="32dp"
         android:text="TextView"
         android:textColor="@color/colorAccent"
         android:textSize="@dimen/text_price"
