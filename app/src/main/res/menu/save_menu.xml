@@ -4,7 +4,7 @@
     <item android:id="@+id/save_menu"
         android:title="@string/save_menu"
         app:showAsAction="always"></item>
-    <item android:id="@+id/delete_deal"
+    <item android:id="@+id/delete_menu"
         android:title="@string/delete_deal"
         app:showAsAction="never"></item>
 
